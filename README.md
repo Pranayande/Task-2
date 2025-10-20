@@ -1,10 +1,4 @@
-Perfect 👍 Since you’ve already completed **Task 3 (React + TypeScript + Ant Design frontend)** for your Kaiburr assignment and have **screenshots for Home and Execute pages**, here’s a complete, polished **`README.md`** file you can directly paste into your GitHub repository.
 
-It’s designed to look professional and clean — includes your tech stack, features, API connection info, and screenshot placeholders.
-
----
-
-```markdown
 # 🌐 Kaiburr Task UI – React 19 + TypeScript + Ant Design
 
 This project is the **frontend (Task 3)** of the Kaiburr assignment, built using **React 19**, **TypeScript**, and **Ant Design**.  
